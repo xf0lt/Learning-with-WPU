@@ -1,0 +1,31 @@
+.navigasi li{
+    display: inline;
+    background-color: crimson;
+}
+.main{
+    width: 600px;
+    background-color: darkcyan;
+}
+.main h2{
+    background-color: greenyellow;
+}
+.main span{
+    background-color: darkgrey;
+}
+a {
+    display: inline-block;
+    /* width: 150px;
+    height: 120px; */
+    background-color:darkorange
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+h1, h2, p{ 
+    background-color: rgb(0, 99, 197);
+}
+/* img{
+    display: none;
+} */
